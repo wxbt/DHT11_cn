@@ -1,4 +1,4 @@
-//% color=#f44242 icon="\uf043" block="3 温湿度传感器"
+//% color=#f44242 icon="\uf043" block="外设_温湿度传感器"
 namespace dht11 {
     let pin = DigitalPin.P0;
     function signal_dht11(pin: DigitalPin): void {
