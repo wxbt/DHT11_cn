@@ -1,0 +1,18 @@
+{
+    "name": "DHT11_cn",
+    "version": "0.0.33",
+    "description": "DHT11温湿度传感器的makecode中文模块",
+    "license": "APLv2",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
